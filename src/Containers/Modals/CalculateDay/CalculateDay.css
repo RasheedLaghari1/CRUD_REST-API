@@ -1,0 +1,19 @@
+
+.calculate__wrapper-btn{
+    margin-top: 30px;
+    display: flex;
+    align-self: center;
+    align-items: center;
+}
+.tbl-shadow-wrapper{
+    box-shadow: 0px 5px 4px rgb(0 0 0 / 10%);
+}
+.calculate--tbl-wrapper th{
+    color:  #fff;
+}
+.calculate__tbl-th{
+    width: 10%;
+}
+.calculate__tbl-desc{
+    width: 30%;
+}

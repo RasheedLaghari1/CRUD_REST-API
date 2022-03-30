@@ -1,0 +1,238 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-weight: normal;
+  text-shadow: none;
+}
+.modal__approval_setup {
+  width: 586px;
+  margin: 0 auto;
+}
+.modal__approval_setup .modal-lg {
+  width: 586px !important;
+  margin: 0 auto;
+}
+.modal__approval_setup .modal-body {
+  padding: 0;
+}
+.approvalsetup-poup_heading {
+  font-size: 20px;
+  color: white;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0px;
+  display: inline-block;
+}
+.p-12 {
+  padding: 12px;
+}
+.thead_bg {
+  background-color: rgba(46, 115, 174);
+}
+.approval_setup_form h1 {
+  font-weight: bold;
+  font-size: 18.66px;
+  color: #4c4c4c;
+  padding-bottom: 20px;
+  margin-bottom: 0;
+  padding-top: 10px;
+  width: 100%;
+  display: inline-block;
+  margin-top: 0;
+}
+.approval-top-btns {
+  float: right;
+}
+.approval-top-btns .btn {
+  background-color: transparent;
+  padding: 0;
+  margin: 0;
+}
+
+.approval_detail_hed {
+  font-weight: bold;
+  font-size: 18.66px;
+  color: #4c4c4c;
+  padding-bottom: 22px;
+  margin-bottom: 0;
+  padding-top: 10px;
+  display: inline-block;
+}
+.approval_setup_form {
+  box-shadow: 0px -3px 8px rgba(0, 0, 0, 0.1) !important;
+  padding: 20px;
+}
+.input_left {
+  width: 50%;
+  float: left;
+}
+.input_right {
+  float: right;
+  width: 50%;
+}
+.input_left label,
+.input_right label {
+  width: 100%;
+  font-size: 12px;
+}
+.input_left select,
+.input_right select {
+  width: 95%;
+  border: 0;
+  border-bottom: 1px solid #e9e9f0;
+  font-size: 12px;
+  color: #000000;
+}
+.input_left input,
+.input_right input {
+  width: 95%;
+}
+.tracking_code_checks {
+  width: 100%;
+  float: left;
+  padding: 10px 0px;
+}
+.tracking_code_checks ul {
+  padding: 0;
+  margin: 0;
+}
+.tracking_code_checks ul li {
+  display: inline-block;
+  padding-right: 10px;
+  font-size: 12px;
+}
+.values_custom {
+  width: 65px;
+  text-align: center;
+  padding: 2px 3px;
+  font-size: 12px;
+  background-color: white;
+  box-shadow: 0px 1px 2px rgba(197, 197, 197, 0.85) !important;
+  border-radius: 5px;
+  display: inline-block;
+  margin-left: 10px;
+}
+.values_custom:focus {
+  box-shadow: 0px 1px 2px rgba(197, 197, 197, 0.85) !important;
+}
+.approval_setup_popup__table1 tbody tr,
+.approval_setup_popup__table tbody tr {
+  box-shadow: 0px 1px 2px rgba(197, 197, 197, 0.85) !important;
+  -webkit-box-shadow: 0px 1px 5px rgba(197, 197, 197, 0.85) !important;
+}
+
+.approval_setup_popup__table1 tbody {
+  border: 1px solid rgba(197, 197, 197, 0.85);
+}
+
+.approval_setup_popup__table1 thead th:first-child,
+.approval_setup_popup__table
+  thead
+  th:first-child
+  .approval_setup_popup__table1
+  tbody
+  td:first-child,
+.approval_setup_popup__table tbody td:first-child {
+  width: auto;
+}
+.approval_setup_popup__table11 thead th,
+.approval_setup_popup__table1 tbody td {
+  width: 277px;
+  text-align: center;
+}
+.approval_setup_popup__table1 thead th {
+  color: #fff;
+  font-size: 13px;
+  text-align: center;
+}
+
+.approval_setup_popup__table tbody td {
+  font-size: 13px;
+  color: #616060;
+}
+.approval_setup_popup__table thead th,
+.approval_setup_popup__table tbody td {
+  width: 113px;
+}
+.approval_setup_popup__table thead th {
+  color: #fff;
+  font-size: 13px;
+}
+
+.approval_setup_popup__table tbody td {
+  font-size: 13px;
+  color: #616060;
+}
+
+.approvalSetup-poup_heading {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #ffffff;
+  display: inline-block;
+  line-height: 20px;
+  padding-top: 5px;
+}
+
+.approvalSetup-poup_can-sav-btn {
+  float: right;
+  text-align: right;
+  line-height: 20px;
+}
+.approvalgroup-poup_can-sav-btn .can-btn1 {
+  color: rgba(46, 115, 174);
+}
+.approvalgroup-poup_can-sav-btn .can-btn1 img {
+  padding-right: 11px;
+}
+.Indirecttaxcode-poup_body .approval-setup-check-div .click_checkmark {
+  top: 2px;
+}
+.approval-setup-check-div {
+  padding-top: 11px;
+}
+
+.new-react-select {
+  position: relative;
+  top: -5px;
+  width: 95%;
+}
+.new-react-select .react-select__control,
+.new-react-select .react-select__control--is-focused {
+  min-height: 34px !important;
+  font-size: 12px;
+}
+.new-react-select .css-g1d714-ValueContainer {
+  padding: 0;
+}
+.new-react-select .react-select__control {
+  border-bottom: 1px solid #e9e9f0 !important;
+}
+.font__tweleve {
+  font-size: 12px;
+}
+.font__inner--wrapper {
+  color: #616060;
+  font-size: 13px;
+  font-family: "SegoeRegular";
+}
+.form__select--wrapper .font--label-wrapper {
+  font-size: 13px !important;
+}
+
+.values_custom.approval__input--wrapper {
+  color: #616060 !important;
+}
+.input__field--wraper3 {
+  padding-bottom: 6px !important;
+}
+
+.input__wraperh30 {
+  height: 31px !important;
+}
+.form_mrleft {
+  margin-left: 0px;
+}
+.user__label-wraper {
+  position: relative;
+  top: 4px;
+}

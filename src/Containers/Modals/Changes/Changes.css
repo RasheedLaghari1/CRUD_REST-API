@@ -1,0 +1,15 @@
+.changes_item_main{
+    border-bottom: 1px solid #E3E3E3 ;
+    padding: 30px 0px 35px 0px;
+}
+.changes_9 p{
+    color: #7B7B7B;
+    font-size: 20px;
+}
+.changes_3 p{
+    color: #7B7B7B;
+    font-size: 16px;
+}
+.forgot_body .col-md-12:last-child .changes_item_main {
+    border-bottom: none !important;
+}

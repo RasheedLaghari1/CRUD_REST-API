@@ -1,0 +1,26 @@
+.custom_line_type_poup_body .chart_layout_bottom_input .click_checkmark {
+    top: 5px;
+}
+
+.custom_line_type_poup_body .chart_layout_bottom_input .check_main {
+    margin-bottom: 0;
+    top: 20px;
+}
+#chart-layout-modal {
+    box-shadow: 0px 5px 4px rgba(0,0,0,0.1);
+}
+.chart-layout-body  thead th, .chart-layout-body  tbody td {
+    width: 70px;
+}
+
+
+.chart-layout-body table thead th:last-child, .chart-layout-body table thead td:last-child {
+    text-align: right !important;
+}
+
+.chart-setup-select .custon_select-selector-inner__control {
+    height: 29px;
+}
+.chart-setup-select .custon_select-selector-inner__value-container {
+    height: 31px;
+}

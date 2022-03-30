@@ -1,0 +1,11 @@
+.form-group.remember_check label:before { 
+    border: 1px solid #C4C4C4;
+    border-radius: 0px; 
+    padding: 8px;
+} 
+.form-group.remember_check input:checked + label:after { 
+    /* bottom: 6px;
+    left: 6px; */
+    width: 5px;
+    height: 10px; 
+}

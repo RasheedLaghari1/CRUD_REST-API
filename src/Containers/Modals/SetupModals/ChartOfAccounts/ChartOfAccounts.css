@@ -1,0 +1,130 @@
+.modal-content {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    text-shadow: none;
+}
+
+.modal__copy_accounts .modal-lg {
+    width: 488px !important;
+}
+
+.custom_line_type_poup_heading {
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ffffff;
+    display: inline-block;
+    line-height: 20px;
+    padding-top: 5px;
+}
+
+.custom_line_type_header {
+    /* background-color: #2f73ad; */
+    padding: 19px 17px 19px 28px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-left: -1px;
+}
+
+.copy_accounts_poup_body {
+    padding: 28px;
+}
+
+.modal__copy_accounts .modal-body {
+    padding: 0;
+}
+
+.copy_accounts_poup_body label {
+    font-size: 13px;
+    color: #383838;
+    margin-bottom: 0px;
+
+}
+
+.copy_accounts_poup_body label {
+    font-size: 13px;
+    color: #616060;
+}
+
+.copy_accounts_poup_body .css-1wa3eu0-placeholder {
+    font-size: 13px;
+    color: #000000;
+}
+
+.copy_accounts_table h2 {
+    font-weight: bold;
+    font-size: 18.66px;
+    color: #4c4c4c;
+    padding-bottom: 22px;
+    margin-bottom: 0;
+    padding-top: 10px;
+    display: inline-block;
+}
+
+.copy_accounts_table thead th {
+    color: #fff;
+    font-size: 13px;
+}
+
+.copy_accounts_poup_body .check_main {
+    margin-bottom: 11px;
+}
+
+.copy_accounts_poup_body .click_checkmark {
+    top: 0;
+}
+
+.copy_accounts_table tbody td {
+    font-size: 13px;
+    color: #616060;
+  
+}
+.copy_accounts_table tbody tr {
+    box-shadow: 0px 1px 2px rgba(197, 197, 197, 0.85) !important;
+    -webkit-box-shadow: 0px 1px 5px rgba(197, 197, 197, 0.85) !important;
+
+}
+
+.copy_accounts_table thead th:first-child,
+.copy_accounts_table tbody td:first-child {
+    width: auto;
+}
+
+.copy_accounts_table #chart-of-accounts-modal thead th,
+.copy_accounts_table #chart-of-accounts-modal tbody td {
+    width: 102px;
+    text-transform: capitalize;
+}
+.customline_table1 thead th,
+.customline_table1 tbody td {
+    width: 187px;
+    text-transform: capitalize;
+
+}
+ .copy_accounts_poup_body input {
+    width: 100%;
+    border: 0;
+    border-bottom: 1px solid #e9e9f0;
+    font-size: 13px;
+    color: #000000;
+}
+.user_setup_plus_Icons .custonline_icons_ul li {
+    margin: 0px 5px 10px;
+    vertical-align: top;
+}
+.copy_accounts_poup_body .cus_line_check_ul .click_checkmark {
+    top: 3px;
+}
+
+
+
+@media (min-width:4000px) and (max-width:8000px){
+    .copy_accounts_table thead th, .copy_accounts_table tbody td {
+        width: 88px;
+        text-transform: capitalize;
+    }
+    .customline_table1 thead th, .customline_table1 tbody td {
+        width: 180px;
+        text-transform: capitalize;
+    }
+}

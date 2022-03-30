@@ -1,0 +1,33 @@
+.table_white_box #customfields_filter::before {
+    content: " ";
+    position: absolute;
+    right: 30px;
+    top: -5px;
+    height: 36px;
+    border-left: 1px solid;
+  }
+  
+  .table_white_box div.dataTables_wrapper div.dataTables_filter label {
+    position: relative;
+    text-indent: -25%;
+    width: 100%;
+  }
+  
+  .table_white_box .dataTables_wrapper div.dataTables_filter input {
+    margin-left: 0px !important;
+  }
+  
+  .table_white_box #object1 {
+    width: 23px;
+    height: 27px;
+    background: #ff000000;
+    position: absolute;
+    right: 7px;
+    top: 2px;
+    z-index: 9;
+    cursor: pointer;
+  }
+  
+  .table_white_box #customfields_wrapper.dataTables_wrapper {
+    position: static;
+  }

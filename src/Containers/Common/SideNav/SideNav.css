@@ -1,0 +1,32 @@
+.usersetu_sidesub_menu {
+    width: 100%;
+    display: inline-block;
+    padding: 15px;
+    background: #F9FDFF;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+    height: 300px;
+    overflow-y: auto;
+}
+.usersetu_side_menu_span {
+    padding: 17px 40px 17px 20px;
+    overflow: hidden;
+    color: #30679a;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.02);
+    cursor: pointer;
+    border-left: 5px solid #fff;
+    width: 100%;
+    float: left;
+    font-size: 15px;
+    border-bottom: 0px;
+
+}
+.side-nav .categories>li span img {
+    padding-right: 8px;
+}
+.sidebar--scroll--wrapper{
+    height: 100vh !important;
+}
+.sidebar--scroll--inner{
+    height: calc(100% - 60px);
+    overflow-x: scroll;
+}

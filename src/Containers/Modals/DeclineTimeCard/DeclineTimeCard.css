@@ -1,0 +1,63 @@
+.mtop-20 {
+  margin-top: 20px;
+}
+.remember_check .label__font-wrapper {
+  font-size: 15px !important;
+}
+.flex__wrapper--content .remember_check .label__checkbox .label__font-wrapper {
+  font-size: 13px !important;
+  width: 90px;
+}
+.text__field-wrapper {
+  font-size: 13px !important;
+}
+.text__field-wrapper::placeholder {
+  font-size: 13px !important;
+}
+.custon_select.decline__label label {
+  color: #656565 !important;
+}
+.font-15-wrappar {
+  font-size: 15px !important;
+}
+.custon_select .font-15-wrappar {
+  font-size: 15px !important;
+}
+.form-group.remember_check .font-15-wrappar {
+  font-size: 15px !important;
+}
+.color-gray-containter > div {
+  color: #656565 !important;
+}
+.flex-align-wrapper {
+  display: flex !important;
+  align-items: center !important;
+  align-self: center !important;
+}
+.input-line-height {
+  line-height: normal !important;
+}
+@media (min-width: 2561px) and (max-width: 8000px) {
+  .form-group.remember_check .font-15-wrappar {
+    font-size: 16px !important;
+  }
+  .input-line-height {
+    line-height: 20px !important;
+  }
+}
+@media (min-width: 1900px) and (max-width: 2560px) {
+  .form-group.remember_check .font-15-wrappar {
+    font-size: 16px !important;
+  }
+  .input-line-height {
+    line-height: 20px !important;
+  }
+}
+@media (min-width: 1600px) and (max-width: 1899px) {
+  .form-group.remember_check .font-15-wrappar {
+    font-size: 17px !important;
+  }
+  .input-line-height {
+    line-height: 20px !important;
+  }
+}

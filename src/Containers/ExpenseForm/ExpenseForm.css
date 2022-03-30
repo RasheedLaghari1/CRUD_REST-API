@@ -1,0 +1,338 @@
+.primary_doc {
+  border: 2px solid #32cd32 !important;
+}
+
+.dash_checkmark {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  height: 18px;
+  width: 18px;
+  border-radius: 50px;
+  border: 1px solid #95989a;
+  background: #fff;
+}
+
+.dash_container:hover input ~ .dash_checkmark {
+  background-color: #ccc;
+}
+
+.dash_container input:checked ~ .dash_checkmark {
+  background-color: #346a9c;
+  border-radius: 50px;
+}
+
+.dash_checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.dash_container input:checked ~ .dash_checkmark:after {
+  display: block;
+}
+
+.dash_container .dash_checkmark:after {
+  left: 5px;
+  top: 2px;
+  width: 6px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.dash_container.dash_remember .dash_checkmark {
+  height: 14px;
+  width: 14px;
+}
+table.dash-table .dash_container.dash_remember .dash_checkmark {
+  top: 4px !important;
+}
+.dash_container.dash_remember .dash_checkmark:after {
+  left: 4px;
+  top: 2px;
+  width: 4px;
+  height: 7px;
+  border-width: 0 2px 2px 0;
+}
+.dash_checkmark {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  height: 1.2rem;
+  width: 1.2rem;
+  border-radius: 50px;
+  border: 1px solid #95989a;
+  background: #fff;
+}
+
+.dash_container:hover input ~ .dash_checkmark {
+  background-color: #ccc;
+}
+
+.dash_container input:checked ~ .dash_checkmark {
+  background-color: #346a9c;
+  border-radius: 50px;
+}
+
+.dash_checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.dash_container input:checked ~ .dash_checkmark:after {
+  display: block;
+}
+
+.dash_container .dash_checkmark:after {
+  left: 6px;
+  top: 3px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.unckeck input {
+  display: none;
+}
+.unckeck {
+  padding-left: 35px;
+}
+.login_table_list .exp_edit .white-space {
+  white-space: nowrap;
+}
+.exp-top-btn {
+  font-size: 25px;
+  margin: 0;
+  padding: 0 10px;
+}
+.expxtopbtn1 span.fa {
+  padding-right: 0;
+}
+.exp_th1 .form-group {
+  margin: 0;
+  font-family: "SegoeSemiBold" !important;
+}
+.exp_th1 label {
+  margin-bottom: 0;
+}
+.analysis-card-dropdwn .exp-top-btn {
+  font-size: 25px;
+  font-family: "SegoeSemiBold";
+  background: #ffff;
+  border: 0px;
+  color: #30679a;
+  margin-left: 30px;
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+}
+.analysis-card-dropdwn .exp-top-btn:hover {
+  color: #30679a;
+}
+.exp_drag_area {
+  width: 20%;
+  float: left;
+  padding-top: 15px;
+}
+.exp_upload_files {
+  width: 80%;
+  float: right;
+  padding-left: 15px;
+  padding-top: 12px;
+}
+.custon_select {
+  width: 100%;
+  display: inline-block;
+}
+.exp_upload_files ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: block;
+}
+.exp_drag_area .upload-label {
+  height: auto;
+}
+.exp_upload_files ul li {
+  width: 20%;
+  display: inline-block;
+  text-align: left;
+  padding: 4px 5px;
+  margin: 5px;
+  font-size: 12px;
+  border-radius: 5px;
+  position: relative;
+}
+.exp_upload_files ul .green_li span {
+  color: #32cd32;
+}
+.exp_upload_files ul .green_li span.fa-times {
+  float: right;
+  position: absolute;
+  top: 8px;
+  right: 5px;
+}
+.exp_upload_files ul .green_li {
+  color: #32cd32;
+  border: 1px solid #32cd32;
+  background-color: rgb(218, 231, 218);
+}
+.exp_upload_files ul .blue_li {
+  color: #30679a;
+  border: 1px solid #30679a;
+  background-color: rgb(204, 220, 233);
+}
+.exp_upload_files ul .blue_li span {
+  color: #30679a;
+}
+.exp_upload_files ul .blue_li span.fa-times {
+  float: right;
+  position: absolute;
+  top: 8px;
+  right: 5px;
+}
+.exp_upload_files p {
+  display: inline-block;
+  margin: 0;
+  padding-left: 5px;
+  width: 90%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1;
+}
+.exp_radio_pad {
+  padding-left: 15px;
+}
+.s-c-main .exp_top_btn button {
+  padding: 0;
+  margin-right: 0 !important;
+}
+.exp_detail .dash_checkmark {
+  left: 29px;
+}
+.react-select__control {
+  font-size: 13px;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  border-radius: 0;
+  border: none !important;
+  background: transparent;
+  width: 100%;
+  overflow: hidden;
+  padding: 0;
+  height: auto;
+  color: #5a5a5a;
+  border-bottom: 2px solid #e9e9f0 !important;
+  -moz-appearance: none;
+  appearance: none;
+  -webkit-appearance: none;
+  cursor: pointer !important;
+}
+.react-select__option {
+  font-size: 18px;
+  border-bottom: 1px solid #eee;
+}
+.css-3usm66-option:active,
+.css-3usm66-option {
+  color: black !important;
+}
+.css-g1d714-ValueContainer {
+  padding-left: 0 !important;
+}
+.css-k7l0pp-option {
+  color: black !important;
+  color: hsl(0, 0%, 0) !important;
+}
+.css-g1d714-ValueContainer {
+  padding-left: 0;
+}
+/* .css-le0rxj-option {
+  background-color: transparent !important;
+}
+.css-le0rxj-option:hover {
+  background-color: #f6f6f6 !important;
+}
+.css-3usm66-option:active {
+  background-color: transparent !important;
+} */
+
+.react-select__control--menu-is-open {
+  position: relative;
+}
+.css-2b097c-container .react-select__indicator svg {
+  display: none;
+}
+
+.react-select__control--menu-is-open:after,
+.react-select__control:after {
+  position: absolute !important;
+  font-size: 20px !important;
+  content: "\f0d7" !important;
+  right: 14px;
+  bottom: 4px;
+  color: #5a5a5a;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* .react-select__control--is-focused:after { */
+.react-select__control--menu-is-open:after {
+  transform: rotate(180deg);
+}
+.react-datepicker__input-container:before {
+  z-index: 0;
+}
+.exp-dropdown-ui .chart_menue {
+  width: 452px;
+}
+
+.exp-dropdown-ui .chart_menue .invoice_vender_menu {
+  margin: 0;
+  background-color: #fff;
+  padding: 10px 0px 0px;
+  max-height: 200px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+@media screen and (max-width: 1199px) {
+  .expence_detail {
+    padding: 20px 30px !important;
+  }
+  .box_height {
+    padding: 20px 30px !important;
+  }
+  .exp_upload_files ul li {
+    width: 35%;
+  }
+}
+@media screen and (max-width: 991px) {
+  .exp_upload_files ul li {
+    width: 50%;
+  }
+  .box_height {
+    min-height: 728px;
+  }
+}
+@media screen and (max-width: 575px) {
+  .exp_upload_files ul li {
+    width: 100%;
+  }
+  .exp_drag_area {
+    width: 100%;
+  }
+  .exp_upload_files {
+    width: 100%;
+    float: left;
+  }
+}

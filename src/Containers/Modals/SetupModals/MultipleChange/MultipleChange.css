@@ -1,0 +1,217 @@
+.modal-content {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    text-shadow: none;
+}
+
+.modal__multiple_change .modal-lg {
+    width: 488px !important;
+}
+
+.multiple_change-poup_heading {
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ffffff;
+    display: inline-block;
+    line-height: 20px;
+    padding-top: 5px;
+}
+
+.multiple_change-poup_can-sav-btn {
+    float: right;
+    text-align: right;
+    line-height: 20px;
+}
+
+.multiple_change-poup_can-sav-btn .can-btn1 {
+    padding: 0;
+    margin: 0;
+    background-color: transparent;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.multiple_change-poup_can-sav-btn .can-btn1 img {
+    padding-right: 11px;
+}
+
+.multiple_change-poup_can-sav-btn .can-btn1 {
+    padding: 0;
+    margin: 0;
+    background-color: transparent;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.multiple_change_header {
+    /* background-color: #2f73ad; */
+    padding: 19px 17px 19px 28px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-left: -1px;
+}
+
+.multiple_change-poup_body {
+    padding: 28px;
+}
+
+.modal__multiple_change .modal-body {
+    padding: 0;
+}
+
+.multiple_change-poup_body label {
+    font-size: 13px;
+    color: #383838;
+    margin-bottom: 0px;
+}
+.multiple_change-poup_body .form-group {
+    position: static;
+}
+
+.multiple_change_select .custon_select-selector-inner__control.css-e56m7-control:after {
+    right: 5px;
+    color: #858585 !important;
+    font-size: 14px !important;
+    top: 41%;
+}
+
+.multiple_change-poup_body label {
+    font-size: 13px;
+    color: #616060;
+}
+
+.multiple_change-poup_body .css-1wa3eu0-placeholder {
+    font-size: 13px;
+    color: #000000;
+}
+
+.multiple_change_select .custon_select-selector-inner__control {
+    border-bottom: 1px solid #e9e9f0 !important;
+}
+
+.multiple_change-poup_body input {
+    width: 100%;
+    border: 0;
+    border-bottom: 1px solid #e9e9f0;
+    font-size: 13px;
+    color: #000000;
+
+}
+
+.indirect_tax_code_table #multiple-chnage-modal thead th,
+.indirect_tax_code_table #multiple-chnage-modal tbody td {
+    width: 102px;
+}
+
+.indirect_tax_code_table h2 {
+    font-weight: bold;
+    font-size: 18.66px;
+    color: #4c4c4c;
+    padding-bottom: 22px;
+    margin-bottom: 0;
+    padding-top: 10px;
+    display: inline-block;
+}
+
+.indirect_tax_code_table thead th {
+    color: #fff;
+    font-size: 13px;
+}
+
+.multiple_change-poup_body .check_main {
+    margin-bottom: 11px;
+}
+
+.multiple_change-poup_body .click_checkmark {
+    top: 0;
+}
+
+.indirect_tax_code_table tbody td {
+    font-size: 13px;
+    color: #616060;
+
+}
+
+.indirect_tax_code_table tbody tr {
+    box-shadow: 0px 1px 2px rgba(197, 197, 197, 0.85) !important;
+    -webkit-box-shadow: 0px 1px 5px rgba(197, 197, 197, 0.85) !important;
+}
+
+.indirect_tax_code_table thead th:first-child,
+.indirect_tax_code_table tbody td:first-child {
+    width: auto;
+}
+
+.indirect_tax_code_table thead th,
+.indirect_tax_code_table tbody td {
+    width: 93px;
+    text-transform: capitalize;
+}
+
+.mc_number-wrapper {
+    position: relative;
+}
+
+.mc_number-wrapper::before {
+    color: #a6a6a6;
+    content: "\25BC";
+    margin-bottom: 5px;
+    bottom: -7px;
+    position: absolute;
+    right: 0;
+
+}
+
+.mc_number-wrapper::after {
+    color: #a6a6a6;
+    content: "\25B2";
+    margin-top: 5px;
+    position: absolute;
+    right: 0;
+}
+
+.mc_number-wrapper:after,
+.mc_number-wrapper:before {
+    position: absolute;
+    right: -1px;
+    width: 1.6em;
+    height: .9em;
+    font-size: 10px;
+    pointer-events: none;
+    background-color: white;
+    cursor: pointer;
+}
+
+.multiple_change-poup_body .mc_number-wrapper input {
+    margin-left: 0;
+    padding: 0;
+    padding-bottom: 5px;
+}
+
+.multichange_selct_check {
+    width: 6%;
+    float: left;
+    margin-top: 31px;
+}
+
+.multi_chnage_selct_div {
+    width: 94%;
+    float: right;
+}
+
+@media (min-width:2560px) and (max-width:4000px) {
+
+    .indirect_tax_code_table thead th,
+    .indirect_tax_code_table tbody td {
+        width: 91px;
+    }
+}
+
+@media (min-width:4000px) and (max-width:8000px) {
+
+    .indirect_tax_code_table thead th,
+    .indirect_tax_code_table tbody td {
+        width: 88px;
+    }
+}

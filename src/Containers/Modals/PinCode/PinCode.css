@@ -1,0 +1,11 @@
+.disabled_btn{
+    color: #E9E9E9 !important;
+    border: 1px solid #E9E9E9 !important;
+    background-color: #ffff !important;
+}
+.resend_pin{
+    color: #235D92;
+    font-size: 17px;
+    margin-bottom: 19px;
+    cursor: pointer;
+}

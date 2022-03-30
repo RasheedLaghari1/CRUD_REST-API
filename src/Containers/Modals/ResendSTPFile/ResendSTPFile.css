@@ -1,0 +1,72 @@
+
+.flex__wrapper--content{
+    display: flex;
+    align-items: center;
+    align-self: center;
+}
+.modal__title{
+    color: #7b7b7b !important;
+    font-size: 30px;
+    font-family: "SegoeSemiBold";
+    line-height: 23px;
+    
+}
+.modal__heading{
+    color: #656565 !important;
+    font-size: 17px;
+    font-family: "SegoeSemiBold";
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+  
+}
+.modal__title2{
+   
+    color: #808080 !important;
+    font-size: 18px;
+    font-family: "SegoeRegular";
+    margin: 0px;
+    font-weight: 500;
+}
+.btn__authorize{
+    font-size: 16px;
+    font-family: "SegoeSemiBold";
+   background-color: #30679a !important;
+   color: #fff;
+   padding: 5px 16px;
+}
+.btn__cancel{
+    font-size: 16px;
+    font-family: "SegoeSemiBold";
+   background-color: #c4c4c4 !important;
+   color: #fff;
+   padding: 5px 16px;
+
+}
+.margin__right--side{
+margin-right: 20px;
+}
+.mb__bottom-wraper{
+    margin-bottom: 20px !important;
+}
+.label__checkbox{
+    font-size: 18px !important;
+    font-family: "SegoeRegular";
+    color: #464646 !important;
+}
+.margin__right-wrapper{
+margin-right: 150px;
+}
+.margin__right-wrapper2{
+    margin-right: 100px;
+    }
+.width100{
+    width: 100%;
+}
+.margin-topbottom{
+    margin: 10px 0px;
+}
+.select__wrapper-inner{
+    border: 2px solid #7b7b7b!important;
+    border-radius: 5px;
+}

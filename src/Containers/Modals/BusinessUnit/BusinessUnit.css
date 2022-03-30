@@ -1,0 +1,54 @@
+.comments_main{
+    border-bottom: 1px solid #E3E3E3 !important ;
+    padding: 14px 0px 10px 0px;
+}
+.activity_9 p{
+    color: #7B7B7B;
+    font-size: 20px;
+}
+.activity_3 p{
+    color: #7B7B7B;
+    font-size: 16px;
+}
+.activity_9_h5{
+    color: #30679A;
+    font-family: 'SegoeBold';
+    padding-bottom: 16px;
+}
+.forgot_body .col-md-12:last-child .activity_item_main.comments_main {
+    border-bottom: 1px solid #E3E3E3 !important ;
+}
+.comment_textarea{
+    margin-top: 0px;
+    margin-bottom: 16px;
+    height: 77px;
+    resize: none;
+}
+.add_comment_btn{
+    margin-left: 0px !important;
+}
+.comment_section{
+    padding: 14px 0px 10px 0px;
+}
+.recent_active_pic img{
+    width: 40px;
+    height: 40px;
+}
+.recent_active_main{
+    padding: 0px 0px 27px 0px !important;
+    border: none !important;
+}
+.business_unit_modal_content .modal-content{
+    background: transparent !important;
+    box-shadow: none;
+    border: 0px;
+}
+.business_unit_modal_content .modal-body{
+    background: transparent !important;
+}
+.busines_unit_table{
+    background-color: #fff;
+}
+.busines_unit_tbl-head th{
+    border-top: none;
+}

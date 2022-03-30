@@ -1,0 +1,99 @@
+.table_white_box #userdefaults_filter::before {
+  content: " ";
+  position: absolute;
+  right: 30px;
+  top: -5px;
+  height: 36px;
+  border-left: 1px solid;
+}
+
+.table_white_box div.dataTables_wrapper div.dataTables_filter label {
+  position: relative;
+  text-indent: -25%;
+  width: 100%;
+}
+
+.table_white_box .dataTables_wrapper div.dataTables_filter input {
+  margin-left: 0px !important;
+}
+
+.table_white_box #object1 {
+  width: 23px;
+  height: 27px;
+  background: #ff000000;
+  position: absolute;
+  right: 7px;
+  top: 2px;
+  z-index: 9;
+  cursor: pointer;
+}
+
+.table_white_box #userdefaults_wrapper.dataTables_wrapper {
+  position: static;
+}
+
+.user_default_select,
+.wd-200 {
+  width: 200px;
+}
+
+.user_default_select
+  .custon_select-selector-inner__control.css-e56m7-control:after,
+.custon_select-selector-inner__control--is-focused:after {
+  right: 0;
+  color: #616060;
+  font-size: 14px !important;
+}
+
+.user_default_select .custon_select-selector-inner__value-container {
+  margin-top: 0px;
+  height: 19px;
+}
+
+.user_default_select2 {
+  width: 90px;
+}
+
+.user_default_select .css-1wa3eu0-placeholder {
+  padding-bottom: 3px;
+}
+.user_default_select2 .css-1wa3eu0-placeholder {
+  top: 60%;
+}
+.user_default_select2 .css-1wa3eu0-placeholder:focus {
+  top: 83%;
+}
+
+.user_default_table_input {
+  width: 90px;
+  border: 0;
+  outline: 0;
+  border-bottom: 1px solid #e9e9f0 !important;
+}
+
+.user_default_select .custon_select-selector-inner__control {
+  border-bottom: 1px solid #e9e9f0 !important;
+  min-height: 15px;
+}
+.user_default_select .custon_select-selector-inner__control--is-focused {
+  height: 10px !important;
+}
+.user_default_select .custon_select-selector-inner__value-container {
+  height: 23px;
+}
+.user_default_select .css-1wa3eu0-placeholder {
+  top: 64%;
+}
+.main_table_box {
+  position: initial;
+}
+.table_white_box div.dataTables_wrapper div#userdefaults_filter,
+.table_white_box div.dataTables_wrapper div#systemdefaults_filter {
+  top: 195px;
+  left: 31px;
+}
+.user_default_select
+  .custon_select-selector-inner__control--is-focused
+  .css-1uccc91-singleValue {
+  top: 61%;
+}

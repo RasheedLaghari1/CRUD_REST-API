@@ -1,0 +1,171 @@
+#root {
+  $background-color: #fff;
+  // $background-color: var(--background-color);
+  // $background-Image: var(--background-image);
+}
+$user-setup-bg-color: var(--user-setup-bg-color);
+// var(--user-setup-bg-color);
+
+$background-Image: var(--background-image);
+
+.table_white_box_sass
+  .dataTables_wrapper
+  .dataTables_paginate
+  .paginate_button.current {
+  background: $user-setup-bg-color;
+}
+
+.table_white_box_sass
+  .dataTables_wrapper
+  .dataTables_paginate
+  .paginate_button:active,
+.table_white_box_sass
+  .dataTables_wrapper
+  .dataTables_paginate
+  .paginate_button:hover {
+  background-color: $user-setup-bg-color;
+  background: $user-setup-bg-color;
+}
+
+.user_setup_play_video_sass {
+  background-color: $user-setup-bg-color;
+}
+.user_setup_play_tuturial_sass {
+  background-color: $user-setup-bg-color;
+}
+.video_hlepArtical_sass {
+  color: $user-setup-bg-color !important;
+}
+.user_setup_play_icon_sass {
+  background-color: $user-setup-bg-color;
+  border-color: $user-setup-bg-color;
+}
+.user_setup_play_icon_svg_sass {
+  fill: $user-setup-bg-color;
+  border-color: $user-setup-bg-color;
+}
+
+.round_plus_btn_sass {
+  color: $user-setup-bg-color;
+}
+.round_plus_sass {
+  background-color: $user-setup-bg-color;
+}
+
+.round_file_sass {
+  background-color: $user-setup-bg-color;
+}
+
+.dots_img_sass {
+  fill: $user-setup-bg-color;
+}
+
+.user_setup_table_sass thead {
+  background-color: $user-setup-bg-color;
+}
+// .user_setup_main {
+//   background-image: url($background-Image);
+//   background-position: center;
+//   background-repeat: no-repeat;
+//   background-size: cover;
+//   width: 100%;
+//   height: auto;
+//   padding: 15px 20px 20px;
+//   font-family: "OpenSans-Regular";
+//   min-height: 100vh;
+//   font-family: "Open Sans", sans-serif;
+// }
+
+//  -----------*****user setup modal start****--------------
+.check_main_sass input:checked ~ .click_checkmark_sass {
+  background-color: $user-setup-bg-color !important;
+}
+.click_checkmark_sass {
+  background: #fff;
+}
+
+.thead_bg_sass {
+  background-color: $user-setup-bg-color !important;
+}
+.bg_clr_sass {
+  background: $user-setup-bg-color !important;
+}
+//  -----------*****user setup modal End****--------------
+
+//  -----------*****setting modal start****--------------
+.setting_header_sass {
+  background-color: $user-setup-bg-color !important;
+}
+.settings_check_main_sass input:checked ~ .settings_checkmark_sass {
+  background-color: $user-setup-bg-color !important;
+}
+
+//  -----------*****setting modal End****--------------
+
+// .dropdown-item_sass.active,
+.dropdown-item_sass:active {
+  background-color: $user-setup-bg-color !important;
+}
+
+.search_btn_sass {
+  background: $user-setup-bg-color !important;
+  border: 1px solid $user-setup-bg-color !important;
+}
+
+.login_table_list_sass table thead th {
+  background: $user-setup-bg-color !important;
+}
+.cords__btn_sass {
+  background: $user-setup-bg-color !important;
+}
+.insert_placeholder_btn_sass {
+  background-color: $user-setup-bg-color !important;
+}
+.btn_email_temp_status_sass:hover {
+  background: $user-setup-bg-color !important;
+  border: solid 1px $user-setup-bg-color !important;
+}
+// ::-webkit-scrollbar-thumb {
+//   background-color: $user-setup-bg-color !important;
+// }
+.export-import-btns .dabit_card_btns {
+  background-color: $user-setup-bg-color !important;
+
+  border: 1px solid $user-setup-bg-color !important;
+}
+.export-import-btns .dabit_card_btns:hover {
+  color: $user-setup-bg-color !important;
+}
+.form-group_sass.remember_check_sass input:checked + label:after {
+  border: solid $user-setup-bg-color;
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: 5px;
+  left: 7px;
+  width: 6px;
+  height: 14px;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+
+.save-filter_sass a {
+  color: $user-setup-bg-color !important;
+}
+
+.clear-filter_sass {
+  color: $user-setup-bg-color !important;
+}
+
+.can-sav-btn_sass .can-btn1 {
+  color: $user-setup-bg-color !important;
+}
+
+.tick_sass {
+  fill: $user-setup-bg-color !important;
+}
+
+.pop-cros-1_sass {
+  fill: $user-setup-bg-color !important;
+  cursor: pointer;
+}

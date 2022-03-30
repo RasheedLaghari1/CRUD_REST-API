@@ -1,0 +1,72 @@
+.currencies_detail {
+    width: 100%;
+    display: inline-block;
+    box-shadow: 0px 2px 3px #00000029;
+    -webkit-box-shadow: 0px 2px 3px #00000029;
+    padding: 22px 25px 22px 12px;
+}
+.currencies_detail h2 {
+    display: inline-block;
+    margin-bottom: 0;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.currency_detail_save_del {
+    float: right;
+    padding-right: 20px;
+}
+.currency_detail_save_del .can-btn1 {
+    padding: 0;
+    margin: 0;
+    background-color: transparent;
+    color: #2f73ad;
+    font-size: 16px;
+}
+.currency_detail_save_del .can-btn1 img {
+    padding-right: 11px;
+}
+.currencies_details_form {
+    max-width: 380px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+.currencies_details_form .form-group label {
+    margin-bottom: 0;
+    font-size: 13.33px;
+    color: #616060;
+}
+.currencies_details_form .form-group input {
+    width: 100%;
+    border: 0;
+    border-bottom: 1px solid #e9e9f0;
+    font-size: 13.33px;
+    color: #616060;
+}
+.currency_details_select .custon_select-selector-inner__control.css-e56m7-control:after,
+.custon_select-selector-inner__control--is-focused:after {
+    right: 0;
+    color: #616060;
+    font-size: 14px !important;
+}
+
+.currency_details_select .custon_select-selector-inner__value-container {
+    margin-top: 0px;
+    height: 19px;
+}
+
+.currency_details_select .css-1wa3eu0-placeholder {
+    padding-bottom: 3px;
+
+}
+
+.currency_details_select .custon_select-selector-inner__control {
+    border-bottom: 1px solid #e9e9f0 !important;
+}
+.currencies_details_form .custom-radio label {
+    padding-bottom: 13px;
+    margin-left: 15px;
+}
+.cd_calander {
+    float: right;
+}

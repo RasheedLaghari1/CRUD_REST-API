@@ -1,0 +1,215 @@
+.modal-content {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    text-shadow: none;
+}
+
+.modal__custom_line_type .modal-lg {
+    width: 488px !important;
+}
+
+.custom_line_type_poup_heading {
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ffffff;
+    display: inline-block;
+    line-height: 20px;
+    padding-top: 5px;
+}
+
+.custom_line_type_poup_can-sav-btn {
+    float: right;
+    text-align: right;
+    line-height: 20px;
+}
+
+.custom_line_type_poup_can-sav-btn .can-btn1 {
+    padding: 0;
+    margin: 0;
+    background-color: transparent;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.custom_line_type_poup_can-sav-btn .can-btn1 img {
+    padding-right: 11px;
+}
+
+.custom_line_type_poup_can-sav-btn .can-btn1 {
+    padding: 0;
+    margin: 0;
+    background-color: transparent;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.custom_line_type_header {
+    /* background-color: #2f73ad; */
+    padding: 19px 17px 19px 28px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-left: -1px;
+}
+
+.custom_line_type_poup_body {
+    padding: 28px;
+    padding-top: 0px;
+}
+.modal__custom_line_type table{
+    padding: 0;
+}
+.custom_line_type_poup_body label {
+    font-size: 13px;
+    color: #383838;
+    margin-bottom: 0px;
+
+}
+
+.custom_line_type_select .custon_select-selector-inner__control.css-e56m7-control:after {
+    right: 5px;
+    color: #858585 !important;
+    font-size: 14px !important;
+    top: 41%;
+}
+
+.custom_line_type_poup_body label {
+    font-size: 13px;
+    color: #616060;
+}
+
+.custom_line_type_poup_body .css-1wa3eu0-placeholder {
+    font-size: 13px;
+    color: #000000;
+}
+
+.custom_line_type_select .custon_select-selector-inner__control {
+    border-bottom: 1px solid #e9e9f0 !important;
+}
+
+.custom_line_type__table2 h2 {
+    font-weight: bold;
+    font-size: 18.66px;
+    color: #4c4c4c;
+    padding-bottom: 22px;
+    margin-bottom: 0;
+    padding-top: 15px;
+    display: inline-block;
+}
+
+.custom_line_type__table2 thead th {
+    color: #fff;
+    font-size: 13px;
+}
+
+.custom_line_type_poup_body .check_main {
+    margin-bottom: 11px;
+}
+
+.custom_line_type_poup_body .click_checkmark {
+    top: 0;
+}
+
+.custom_line_type__table2 tbody td {
+    font-size: 13px;
+    color: #616060;
+
+}
+
+.custom_line_type__table2 tbody tr {
+    box-shadow: 0px 1px 2px rgba(197, 197, 197, 0.85) !important;
+    -webkit-box-shadow: 0px 1px 5px rgba(197, 197, 197, 0.85) !important;
+
+}
+
+.custom_line_type__table2 tbody {
+    border: 1px solid rgba(197, 197, 197, 0.85)
+}
+
+/* .custom_line_type__table2 thead th:first-child,
+.custom_line_type__table2 tbody td:first-child {
+    width: auto;
+} */
+
+.custom_line_type__table2 thead th,
+.custom_line_type__table2 tbody td {
+    width: 93px;
+    text-transform: capitalize;
+}
+
+.customline_table1 thead th,
+.customline_table1 tbody td {
+    width: 187px;
+    text-transform: capitalize;
+
+}
+
+.custom_line_type_poup_body input {
+    width: 100%;
+    border: 0;
+    border-bottom: 1px solid #e9e9f0;
+    font-size: 13px;
+    color: #000000;
+}
+
+.user_setup_plus_Icons .custonline_icons_ul li {
+    margin: 0px 5px 10px;
+    vertical-align: top;
+}
+
+.custom_line_type_poup_body .cus_line_check_ul .click_checkmark {
+    top: 3px;
+}
+
+.tracking_code_checks ul {
+    padding-top: 10px;
+}
+
+.user-setup-modal-inner #custome-line-type-1.dataTable thead th:last-child,
+#custome-line-type-1.dataTable tbody td:last-child {
+    padding-left: 10px;
+    text-align: left !important;
+    width: auto !important;
+    cursor: default;
+}
+
+.user-setup-modal-inner #custome-line-type-1.dataTable thead th:nth-child(2) {
+   width: 285px;
+}
+.user-setup-modal-inner #custome-line-type-advncd.dataTable thead th:last-child,
+#custome-line-type-advncd.dataTable thead td:last-child {
+    padding-left: 10px;
+    text-align: left !important;
+}
+.modal__custom_line_type .modal-body {
+    padding: 0;
+}
+.cl-type-tbl1 thead th,
+.cl-type-tbl1 tbody td {
+  width: 194px !important;
+}
+.cl-type-tbl1 thead th:first-child,
+.cl-type-tbl1 tbody td:first-child {
+  width: 40px !important;
+  text-align: left;
+  padding-right: 0;
+}
+.cl-type-tbl1 thead th {
+  text-align: center;
+}
+
+
+@media (min-width:4000px) and (max-width:8000px) {
+
+    .custom_line_type__table2 thead th,
+    .custom_line_type__table2 tbody td {
+        width: 88px;
+        text-transform: capitalize;
+    }
+
+    .customline_table1 thead th,
+    .customline_table1 tbody td {
+        width: 180px;
+        text-transform: capitalize;
+    }
+}

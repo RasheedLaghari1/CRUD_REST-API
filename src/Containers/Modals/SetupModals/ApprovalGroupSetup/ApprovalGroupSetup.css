@@ -1,0 +1,153 @@
+.approvalgroup-poup_can-sav-btn {
+  float: right;
+  padding-top: 6px;
+}
+
+.approvalgroup-poup_can-sav-btn .btn {
+  background-color: transparent;
+  padding: 0;
+  margin: 0;
+}
+
+.modal__approval_group_setup {
+  width: 886px !important;
+  margin: 0 auto;
+}
+
+.modal__approval_group_setup .modal-body {
+  padding: 0;
+}
+
+.user_setup_main {
+  background-color: blue;
+  padding: 15px;
+}
+
+.amy_user {
+  display: inline-block;
+}
+.amy_user input {
+  font-size: 14px;
+  color: darkgray;
+  text-transform: uppercase;
+  border: 0px;
+  border-bottom: 1px solid darkgray;
+}
+
+.approval-group_plus_Icons {
+  width: 50%;
+  float: right;
+  margin-top: -2px;
+}
+
+.approval-group_plus_Icons .round_plus img {
+  margin-top: -1px;
+}
+
+.approval-group_plus_Icons ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: right;
+}
+
+.approval-group_plus_Icons ul li {
+  display: inline-block;
+  padding-left: 15px;
+}
+
+.approval_group_popup__table h2 {
+  font-weight: bold;
+  font-size: 18.66px;
+  margin: 0;
+  color: #4c4c4c;
+  padding-bottom: 12px;
+  margin-bottom: 0;
+  padding-top: 0px;
+  display: inline-block;
+}
+
+.approval_group_popup__table tbody tr {
+  box-shadow: 0px 1px 2px rgba(197, 197, 197, 0.85) !important;
+  -webkit-box-shadow: 0px 1px 5px rgba(197, 197, 197, 0.85) !important;
+}
+
+.approval_group_popup__table tbody {
+  border: 1px solid rgba(197, 197, 197, 0.85);
+}
+
+.approval_group_popup__table thead th {
+  color: #fff;
+  font-size: 13px;
+}
+
+.approval_group_popup__table tbody td {
+  font-size: 13px;
+  color: #616060;
+}
+
+.white_box {
+  display: inline-block;
+  background-color: white;
+  border-radius: 20px;
+  padding: 34px;
+}
+
+.thead_bg {
+  background-color: rgba(46, 115, 174);
+}
+
+.approval_group_popup__table thead th {
+  border: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+.approval_group_popup__table thead th,
+.approval_group_popup__table tbody td {
+  width: 196px;
+}
+
+.approval_group_popup__table thead th:first-child,
+.approval_group_popup__table tbody td:first-child {
+  width: auto;
+}
+
+.approval_group {
+  font-size: 24px;
+  color: white;
+  text-transform: uppercase;
+}
+
+.approval_group_popup__table {
+  padding-top: 15px;
+}
+
+.approval_group_popup__table .user_setup_table.dataTable tbody td {
+  padding-left: 10px;
+}
+
+.dataTablesEmpty table.dataTable tbody td.dataTables_empty {
+  text-align: center !important;
+}
+.approve__label-heading {
+  margin-left: 1rem;
+  line-height: 1;
+}
+.approve__input--wrapper {
+  max-width: 300px;
+  width: 300px;
+}
+.group__name {
+  width: 100%;
+}
+.approve__input--wrapper .input__resize {
+  border-bottom: 1px solid #e9e9f0;
+  font-size: 18px;
+  font-weight: bold;
+}
+.rorate_0 {
+  transform: rotateX(0deg) !important;
+}
+.tbl__wdth-wrapper {
+  width: 100%;
+}
